@@ -87,6 +87,8 @@ const HomePage = () => {
       </div>
 
       </div>
+
+      {/* imagen */}
       
       <div data-aos="fade-left">
 
@@ -100,9 +102,8 @@ const HomePage = () => {
       <br/>
       <br/>
       <br/>
-      <br/>
-      <br/>
-      <br/>
+
+
      
     <AboutMe/> 
 
@@ -115,9 +116,12 @@ const HomePage = () => {
 
     
     <Proyectos/>
-   
-      
 
+    <br/>
+    <br/>
+
+   
+   
     </div>
   )
 }

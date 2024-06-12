@@ -54,6 +54,8 @@
 }
 
 .gif{
+  margin-top: 40px;
+  margin-right: 20px;
   border-radius: 10px; 
   box-shadow: 0px 5px 5px 0 #00000054;
 }
@@ -275,4 +277,27 @@
 
 .tableTitlesColumn {
   color: white;
+}
+
+.footer{
+  background-color: #0D0D0D;
+}
+
+.autoresTitle{
+  padding: 20px 20px 20px 20px;
+}
+
+.autores{
+  font-size: 25px;
+}
+
+.cedula {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.divAutores {
+  display: flex;
+  margin-left: 20px;
 }

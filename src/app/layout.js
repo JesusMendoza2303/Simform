@@ -2,7 +2,7 @@
 "use client"
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { Footer } from "../components/Footer";
+import Footer from "../components/Footer"
 import { Providers } from "./providers";
 import Navbarconst from "../components/Navbar";
 import { NextUIProvider} from '@nextui-org/react'
@@ -21,6 +21,7 @@ export default function RootLayout({ children }) {
       <NextUIProvider>
         <Navbarconst/>
         {children}
+         <Footer/> 
      </NextUIProvider>
     </body>
   </html>
