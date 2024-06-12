@@ -53,7 +53,7 @@ const HomePage = () => {
         
       <Button className={`${chackra.className} butonRedes`} >
         <Link  className='botonPrincipal'
-         href='https://www.linkedin.com/in/jesus-gabriel-mendoza-arraiz-2a0838300/overlay/1712281489089/single-media-viewer/?profileId=ACoAAE0CipgBy2OoPgJ9E9ObxrpXrE3zZXVYsMc'>
+         href='https://www.instagram.com/mitienda_virtuall?igsh=YzljYTk1ODg3Zg=='>
       Instagram
 
       </Link>
@@ -62,7 +62,7 @@ const HomePage = () => {
 
       <Button className={`${chackra.className} butonRedes`} >
         <Link  className='botonPrincipal'
-         href='https://www.linkedin.com/in/jesus-gabriel-mendoza-arraiz-2a0838300/overlay/1712281489089/single-media-viewer/?profileId=ACoAAE0CipgBy2OoPgJ9E9ObxrpXrE3zZXVYsMc'>
+         href=''>
       Facebook
 
       </Link>
@@ -71,7 +71,7 @@ const HomePage = () => {
 
       <Button className={`${chackra.className} butonRedes`} >
         <Link  className='botonPrincipal'
-         href='https://www.linkedin.com/in/jesus-gabriel-mendoza-arraiz-2a0838300/overlay/1712281489089/single-media-viewer/?profileId=ACoAAE0CipgBy2OoPgJ9E9ObxrpXrE3zZXVYsMc'>
+         href='https://www.tiktok.com/@mitienda_virtuall?_t=8n9d1cVTkPu&_r=1'>
       Tiktok
 
       </Link>
@@ -121,7 +121,7 @@ const HomePage = () => {
     <br/>
 
    
-   
+
     </div>
   )
 }
